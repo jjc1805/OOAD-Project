@@ -6,7 +6,7 @@ Our topic for the OOAD project is "Knowledge Repository".
 2. Java Swing to implement the frontend GUI.
 3. PostgresSQL is used to implement the database.
 
-# What our project is?
+# What is our project about?
 A Knowledge repository is an online database that systematically captures, organizes,
 and categorizes knowledge-based information. Knowledge repositories are most often
 private databases that manage enterprise and proprietary information, but public
